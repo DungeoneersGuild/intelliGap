@@ -1,0 +1,64 @@
+Please Note: We have intention to transition fully to a proprietary/commercial EULA for paid services.
+
+intelliGap Suite – End User License Agreement (EULA)
+Last updated: [Insert date]
+
+1. Agreement
+By accessing or using intelliGap Suite ("the Software"), a SaaS platform providing DAO governance, legal wrapper services, micro-community management, and data marketplace tools, you agree to this EULA fully and without reservation.
+
+2. License Grant
+We, cxcInitiatives, grant you a limited, non-exclusive, revocable, non-transferable license to access and use the Software as hosted by us, strictly in accordance with this agreement.
+
+This license does not include rights to copy, modify, redistribute, sell, sublicense, reverse engineer, or access source code unless expressly permitted.
+
+3. Intellectual Property Rights
+All rights, title, and interest in and to the Software, including its underlying code, logic, UX design, and unique integrations (such as the DAO governance system, contextual communities, human-in-the-loop moderation methods, and blockchain-based marketplace) remain the sole intellectual property of cxcInitiatives.
+
+This EULA conveys no intellectual property rights beyond limited usage.
+
+4. Usage Restrictions
+You agree not to:
+
+Use the Software in any manner that infringes IP or proprietary rights.
+
+Attempt to derive or access source code through decompilation, reverse engineering, or other means.
+
+Distribute or resell access to the Software without prior written authorization.
+
+Circumvent or disrupt built-in license, access, or usage restrictions.
+
+5. Data & Privacy
+You retain ownership of your data uploaded to our platform. You grant us rights to process this data solely to provide the services.
+
+We do not claim ownership over user-generated data but reserve the right to anonymize and aggregate for analytics and improvement purposes.
+
+6. Payment and Fees
+Access may involve fees payable in USD, ZAR, XRP, or other supported payment methods, clearly disclosed prior to transaction.
+
+Fees are non-refundable unless explicitly stated.
+
+7. Termination
+We reserve the right to terminate your access immediately if you violate any term herein, including IP misuse, unauthorized distribution, or illegal use.
+
+8. Disclaimer of Warranty
+Software is provided "AS IS" without express or implied warranties.
+
+We disclaim warranties of merchantability, fitness for particular purpose, or error-free operations.
+
+Human-in-the-loop moderation and governance tools assist decisions but do not constitute legal advice.
+
+9. Limitation of Liability
+Our liability, in any case, is limited to direct, documented damages and will not exceed fees you paid to us in the preceding 6 months.
+
+10. Governing Law & Jurisdiction
+This agreement will be governed by the laws of South Africa. Disputes arising out of this agreement shall exclusively be settled in the competent courts of South Africa.
+
+11. Amendments
+We reserve rights to amend this EULA periodically. Continued use of the Software after amendment constitutes agreement.
+
+12. Contact & Notices
+All questions regarding this EULA should be directed to:
+digitalpnut@icloud.com
+
+Acceptance of Terms
+By using our Software, you signify that you have read, understood, and agreed to be bound by this Agreement.
